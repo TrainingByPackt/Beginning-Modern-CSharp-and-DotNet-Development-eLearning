@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\bin\Debug\netcoreapp2.0\WebCore2.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic B - Exploring an ASP.NET Core MVC Web Application\WebCore2\obj\Debug\netcoreapp2.0\WebCore2.pdb

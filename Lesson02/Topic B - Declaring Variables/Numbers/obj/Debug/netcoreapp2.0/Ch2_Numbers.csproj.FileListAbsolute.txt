@@ -1,0 +1,10 @@
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Ch2_Numbers.deps.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Ch2_Numbers.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Ch2_Numbers.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Ch2_Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Ch2_Numbers.pdb
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Ch2_Numbers.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Ch2_Numbers.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Ch2_Numbers.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Ch2_Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Ch2_Numbers.pdb

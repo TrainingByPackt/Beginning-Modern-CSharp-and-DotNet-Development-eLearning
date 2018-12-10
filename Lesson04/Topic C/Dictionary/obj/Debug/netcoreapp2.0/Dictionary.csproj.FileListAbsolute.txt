@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\bin\Debug\netcoreapp2.0\Dictionary.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\bin\Debug\netcoreapp2.0\Dictionary.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\bin\Debug\netcoreapp2.0\Dictionary.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\bin\Debug\netcoreapp2.0\Dictionary.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\bin\Debug\netcoreapp2.0\Dictionary.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic C\Dictionary\obj\Debug\netcoreapp2.0\Dictionary.pdb

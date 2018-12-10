@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\bin\Debug\netcoreapp2.0\AssembliesAndNamespaces.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\bin\Debug\netcoreapp2.0\AssembliesAndNamespaces.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\bin\Debug\netcoreapp2.0\AssembliesAndNamespaces.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\bin\Debug\netcoreapp2.0\AssembliesAndNamespaces.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\bin\Debug\netcoreapp2.0\AssembliesAndNamespaces.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic A\AssembliesAndNamespaces\obj\Debug\netcoreapp2.0\AssembliesAndNamespaces.pdb

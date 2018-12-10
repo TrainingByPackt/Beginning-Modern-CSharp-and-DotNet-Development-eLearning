@@ -1,0 +1,33 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.deps.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.runtimeconfig.dev.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\bin\Debug\netcoreapp2.0\Arguments.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csprojResolveAssemblyReference.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.AssemblyInfo.cs
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Arguments\obj\Debug\netcoreapp2.0\Arguments.pdb

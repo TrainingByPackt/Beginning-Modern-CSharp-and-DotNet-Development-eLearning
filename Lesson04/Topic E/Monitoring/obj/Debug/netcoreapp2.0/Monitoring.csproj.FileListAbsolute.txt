@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\bin\Debug\netcoreapp2.0\Monitoring.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\bin\Debug\netcoreapp2.0\Monitoring.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\bin\Debug\netcoreapp2.0\Monitoring.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\bin\Debug\netcoreapp2.0\Monitoring.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\bin\Debug\netcoreapp2.0\Monitoring.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic E\Monitoring\obj\Debug\netcoreapp2.0\Monitoring.pdb

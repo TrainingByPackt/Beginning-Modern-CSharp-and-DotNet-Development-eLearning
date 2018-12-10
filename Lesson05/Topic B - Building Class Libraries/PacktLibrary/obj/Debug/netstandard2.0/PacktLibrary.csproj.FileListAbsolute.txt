@@ -1,0 +1,9 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\bin\Debug\netstandard2.0\PacktLibrary.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PacktLibrary\obj\Debug\netstandard2.0\PacktLibrary.pdb

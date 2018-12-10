@@ -1,0 +1,11 @@
+C:\Code\NewCollection\Chapter2\Ch02_Variables\bin\Debug\netcoreapp2.0\Ch02_Variables.deps.json
+C:\Code\NewCollection\Chapter2\Ch02_Variables\bin\Debug\netcoreapp2.0\Ch02_Variables.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Ch02_Variables\bin\Debug\netcoreapp2.0\Ch02_Variables.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Ch02_Variables\bin\Debug\netcoreapp2.0\Ch02_Variables.dll
+C:\Code\NewCollection\Chapter2\Ch02_Variables\bin\Debug\netcoreapp2.0\Ch02_Variables.pdb
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.dll
+C:\Code\NewCollection\Chapter2\Ch02_Variables\obj\Debug\netcoreapp2.0\Ch02_Variables.pdb

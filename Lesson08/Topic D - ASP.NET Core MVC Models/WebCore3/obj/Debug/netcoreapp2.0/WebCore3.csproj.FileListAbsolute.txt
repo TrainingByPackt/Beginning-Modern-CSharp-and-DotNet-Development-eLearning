@@ -1,0 +1,10 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\bin\Debug\netcoreapp2.0\WebCore3.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\bin\Debug\netcoreapp2.0\WebCore3.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\bin\Debug\netcoreapp2.0\WebCore3.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\bin\Debug\netcoreapp2.0\WebCore3.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\bin\Debug\netcoreapp2.0\WebCore3.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\obj\Debug\netcoreapp2.0\WebCore3.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\obj\Debug\netcoreapp2.0\WebCore3.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\obj\Debug\netcoreapp2.0\WebCore3.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\obj\Debug\netcoreapp2.0\WebCore3.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebCore3\obj\Debug\netcoreapp2.0\WebCore3.pdb

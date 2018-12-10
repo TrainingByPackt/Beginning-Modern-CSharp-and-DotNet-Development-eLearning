@@ -1,0 +1,21 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\bin\Debug\netcoreapp1.1\WebApp.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\bin\Debug\netcoreapp1.1\WebApp.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\bin\Debug\netcoreapp1.1\WebApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\bin\Debug\netcoreapp1.1\WebApp.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic A - Understanding ASP.NET Core\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic D - ASP.NET Core MVC Models\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic E - ASP.NET Core MVC Views\WebApp\obj\Debug\netcoreapp1.1\WebApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic E - ASP.NET Core MVC Views\WebApp\obj\Debug\netcoreapp1.1\WebApp.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic F - Taking ASP.NET Core MVC Further\WebApp\obj\Debug\netcoreapp1.1\WebApp.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic F - Taking ASP.NET Core MVC Further\WebApp\obj\Debug\netcoreapp1.1\WebApp.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic F - Taking ASP.NET Core MVC Further\WebApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic F - Taking ASP.NET Core MVC Further\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 8\End\Topic F - Taking ASP.NET Core MVC Further\WebApp\obj\Debug\netcoreapp1.1\WebApp.AssemblyInfo.cs

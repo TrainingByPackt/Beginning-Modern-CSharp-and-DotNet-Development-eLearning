@@ -1,0 +1,10 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\bin\Debug\netcoreapp2.0\EFCore.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\bin\Debug\netcoreapp2.0\EFCore.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\bin\Debug\netcoreapp2.0\EFCore.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\bin\Debug\netcoreapp2.0\EFCore.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\bin\Debug\netcoreapp2.0\EFCore.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\obj\Debug\netcoreapp2.0\EFCore.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\obj\Debug\netcoreapp2.0\EFCore.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\obj\Debug\netcoreapp2.0\EFCore.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\obj\Debug\netcoreapp2.0\EFCore.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 6\End\Topic B - Working with Entity Framework Core\EFCore\obj\Debug\netcoreapp2.0\EFCore.pdb

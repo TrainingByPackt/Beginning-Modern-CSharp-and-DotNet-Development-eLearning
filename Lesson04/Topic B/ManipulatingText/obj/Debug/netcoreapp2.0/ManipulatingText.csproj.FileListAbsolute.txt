@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\bin\Debug\netcoreapp2.0\ManipulatingText.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\bin\Debug\netcoreapp2.0\ManipulatingText.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\bin\Debug\netcoreapp2.0\ManipulatingText.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\bin\Debug\netcoreapp2.0\ManipulatingText.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\bin\Debug\netcoreapp2.0\ManipulatingText.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\ManipulatingText\obj\Debug\netcoreapp2.0\ManipulatingText.pdb

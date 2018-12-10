@@ -1,0 +1,11 @@
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\Ch2_Arrays.deps.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\Ch2_Arrays.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\Ch2_Arrays.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\Ch2_Arrays.dll
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\Ch2_Arrays.pdb
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.dll
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\Ch2_Arrays.pdb

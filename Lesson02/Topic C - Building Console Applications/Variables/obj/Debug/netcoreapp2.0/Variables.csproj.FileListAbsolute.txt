@@ -1,0 +1,33 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.deps.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.runtimeconfig.dev.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\bin\Debug\netcoreapp2.0\Variables.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csprojResolveAssemblyReference.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfoInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.AssemblyInfo.cs
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic C - Building Console Applications\Variables\obj\Debug\netcoreapp2.0\Variables.pdb

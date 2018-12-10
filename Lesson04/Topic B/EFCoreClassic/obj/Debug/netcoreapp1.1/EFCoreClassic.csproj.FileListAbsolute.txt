@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\bin\Debug\netcoreapp1.1\EFCoreClassic.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\bin\Debug\netcoreapp1.1\EFCoreClassic.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\bin\Debug\netcoreapp1.1\EFCoreClassic.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\bin\Debug\netcoreapp1.1\EFCoreClassic.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\bin\Debug\netcoreapp1.1\EFCoreClassic.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\EFCoreClassic\obj\Debug\netcoreapp1.1\EFCoreClassic.pdb

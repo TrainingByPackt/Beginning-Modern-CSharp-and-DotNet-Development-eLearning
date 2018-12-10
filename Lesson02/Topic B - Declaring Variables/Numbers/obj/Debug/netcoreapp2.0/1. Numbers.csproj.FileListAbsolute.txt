@@ -1,0 +1,55 @@
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.deps.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.deps.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.runtimeconfig.dev.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\bin\Debug\netcoreapp2.0\1. Numbers.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csprojResolveAssemblyReference.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.csproj.CoreCompileInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfoInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.AssemblyInfo.cs
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Numbers\obj\Debug\netcoreapp2.0\1. Numbers.pdb

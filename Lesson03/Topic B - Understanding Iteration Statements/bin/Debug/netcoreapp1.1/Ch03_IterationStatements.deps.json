@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "Ch03_IterationStatements/1.0.0": {
+        "runtime": {
+          "Ch03_IterationStatements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ch03_IterationStatements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PeopleApp.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PacktLibrary.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\bin\Debug\netcoreapp2.0\PacktLibrary.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 5\End\Topic B - Building Class Libraries\PeopleApp\obj\Debug\netcoreapp2.0\PeopleApp.pdb

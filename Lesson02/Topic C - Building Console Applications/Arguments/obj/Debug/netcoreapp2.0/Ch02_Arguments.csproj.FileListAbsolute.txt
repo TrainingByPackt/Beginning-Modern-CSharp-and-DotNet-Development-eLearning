@@ -1,0 +1,11 @@
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\bin\Debug\netcoreapp2.0\Ch02_Arguments.deps.json
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\bin\Debug\netcoreapp2.0\Ch02_Arguments.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\bin\Debug\netcoreapp2.0\Ch02_Arguments.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\bin\Debug\netcoreapp2.0\Ch02_Arguments.dll
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\bin\Debug\netcoreapp2.0\Ch02_Arguments.pdb
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.dll
+C:\Code\NewCollection\Chapter2\Ch02_Arguments\obj\Debug\netcoreapp2.0\Ch02_Arguments.pdb

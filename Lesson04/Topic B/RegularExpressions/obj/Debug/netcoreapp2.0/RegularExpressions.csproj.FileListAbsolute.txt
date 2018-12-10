@@ -1,0 +1,11 @@
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\bin\Debug\netcoreapp2.0\RegularExpressions.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 4\End\Topic B\RegularExpressions\obj\Debug\netcoreapp2.0\RegularExpressions.csprojResolveAssemblyReference.cache

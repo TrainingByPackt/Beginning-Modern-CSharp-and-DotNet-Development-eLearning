@@ -1,0 +1,44 @@
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\2. Arrays.deps.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\bin\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\NewCollection\Chapter2\Ch2_Arrays\obj\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.deps.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.dev.json
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csprojResolveAssemblyReference.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csproj.CoreCompileInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfoInputs.cache
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfo.cs
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Code\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.deps.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.runtimeconfig.dev.json
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\bin\Debug\netcoreapp2.0\2. Arrays.pdb
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csprojResolveAssemblyReference.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.csproj.CoreCompileInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfoInputs.cache
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.AssemblyInfo.cs
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.dll
+C:\Users\faisala\Downloads\Exercise Files-Reynald\BMCSharp_DraftExerciseFiles_Reynald\BeginningModernCSharpDotnetDev\Lesson 2\End\Topic B - Declaring Variables\Arrays\obj\Debug\netcoreapp2.0\2. Arrays.pdb

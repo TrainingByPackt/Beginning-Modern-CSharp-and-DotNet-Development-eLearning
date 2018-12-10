@@ -1,0 +1,11 @@
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Numbers.deps.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Numbers.runtimeconfig.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Numbers.runtimeconfig.dev.json
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\bin\Debug\netcoreapp2.0\Numbers.pdb
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.csprojResolveAssemblyReference.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.AssemblyInfoInputs.cache
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.AssemblyInfo.cs
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.dll
+C:\Code\NewCollection\Chapter2\Numbers\obj\Debug\netcoreapp2.0\Numbers.pdb
